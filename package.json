@@ -113,6 +113,6 @@
     "keycode": "^2.0.0",
     "lodash": "^3.10.0",
     "react-overlays": "ahutchings/react-overlays#ae5fa3ed5b66cc0e90e4110f49da535ec99ac819",
-    "uncontrollable": "^3.0.0"
+    "uncontrollable": "ahutchings/uncontrollable#c5e37e147210b35ca978bc38119ac12c3e7b914a"
   }
 }
